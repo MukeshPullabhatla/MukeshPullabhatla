@@ -30,7 +30,7 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Vue.js, React.js, Angular, Everything API, RDBMS, WordPress, TailwindCSS, TypeScript, Java, Spring, Amazon Web Services, Azure and System Architecture. Currently, I'm open to work and employment opportunities.
+I am a Full Stack Developer with a huge love for Vue.js, React.js, Angular, Everything API, RDBMS, WordPress, TailwindCSS, TypeScript, Java, Spring, Amazon Web Services, Azure and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
 ### Where to find me
 
